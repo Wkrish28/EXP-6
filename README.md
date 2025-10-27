@@ -31,4 +31,5 @@ I. Connect the multimeter at the output of kit..
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-# RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+# RESULT: 
+- LVDT was studied well and graph of displacement was linear for a particular range.
